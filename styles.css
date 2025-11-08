@@ -28,7 +28,7 @@ body {
 }
 
 /* PICTORIAL NEWS SECTION */
-.pictorial-news-section {
+.pictorial {
     width: 70%;
     margin: 25px auto;
     background-color: white;
@@ -37,7 +37,7 @@ body {
     border-radius: 6px;
 }
 
-.pictorial-news-section img {
+.pictorial img {
     width: 180px;
     height: 135px;
     margin: 8px;

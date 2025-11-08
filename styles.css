@@ -1,3 +1,4 @@
+
 /* BODY BACKGROUND */
 body {
     margin: 0;
@@ -28,7 +29,7 @@ body {
 }
 
 /* PICTORIAL NEWS SECTION */
-.pictorial {
+.pictorial-news-section {
     width: 70%;
     margin: 25px auto;
     background-color: white;
@@ -37,7 +38,7 @@ body {
     border-radius: 6px;
 }
 
-.pictorial img {
+.pictorial-news-section img {
     width: 180px;
     height: 135px;
     margin: 8px;
